@@ -1,0 +1,331 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "beach",
+		"player1": "bfscared",
+		"player2": "finn",
+		"player3": null,
+		"events": [
+			[
+				106438.356164384,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				],
+				null,
+				"Sword"
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"steven"
+					]
+				]
+			],
+			[
+				132739.726027397,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"1",
+						"jake"
+					]
+				]
+			],
+			[
+				133154.965753425,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				133159.246575343,
+				[
+					[
+						"Change Character",
+						"2",
+						"finn"
+					]
+				]
+			],
+			[
+				134794.520547945,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				136438.356164384,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				138082.191780822,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				139726.02739726,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				143013.698630137,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				147123.287671233,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				150410.95890411,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				160171.232876713,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				163561.643835617,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				185753.424657534,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				189041.095890411,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				192328.767123288,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				195616.438356165,
+				[
+					[
+						"Play Animation",
+						"Slash",
+						"2"
+					]
+				]
+			],
+			[
+				237945.205479452,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"steven"
+					]
+				]
+			],
+			[
+				238360.44520548,
+				[
+					[
+						"Change Character",
+						"2",
+						"nogf"
+					]
+				]
+			],
+			[
+				290547.94520548,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"CrazyBob"
+					]
+				]
+			],
+			[
+				348790.229410794,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				395055.289651757,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				406260.108928866,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"steven"
+					]
+				]
+			],
+			[
+				406625.319772239,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "pibby-trouble"
+	}
+}
