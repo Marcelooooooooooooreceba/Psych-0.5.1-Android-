@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Pibby Trouble",
+			"steven",
+			[
+				246,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Triple Trouble but the pibby characters sing it, cry about it",
+	"weekName": "Pibby Trouble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
